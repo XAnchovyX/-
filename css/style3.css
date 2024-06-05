@@ -487,16 +487,6 @@ main{
     display: flex;
     justify-content: space-between;
 }
-.footer{
-    width: 100%;
-    height: 200px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: center;
-    color: white;
-    border-top: 1px solid white;
-}
 a{  
     color: white;
     text-decoration: none;
